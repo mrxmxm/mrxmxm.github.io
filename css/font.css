@@ -18,12 +18,15 @@
 
 .icon-csdn:before {
 	content: "\e638";
+	color: #DD1700;
 }
 
 .icon-wangyiyun::before {
 	content: "\e600";
+	color: #D81E06;
 }
 
 .icon-bilibili::before {
 	content: "\e609";
+	color: #20B0E3;
 }
