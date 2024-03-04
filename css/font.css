@@ -2,9 +2,9 @@
 @font-face {
 	font-family: 'iconfont';
 	/* Project id 4451831 */
-	src: url('//at.alicdn.com/t/c/font_4451831_9i250xp1bph.woff2?t=1709475690680') format('woff2'),
-		url('//at.alicdn.com/t/c/font_4451831_9i250xp1bph.woff?t=1709475690680') format('woff'),
-		url('//at.alicdn.com/t/c/font_4451831_9i250xp1bph.ttf?t=1709475690680') format('truetype');
+	src: url('//at.alicdn.com/t/c/font_4451831_w3tml890z6d.woff2?t=1709537103278') format('woff2'),
+		url('//at.alicdn.com/t/c/font_4451831_w3tml890z6d.woff?t=1709537103278') format('woff'),
+		url('//at.alicdn.com/t/c/font_4451831_w3tml890z6d.ttf?t=1709537103278') format('truetype');
 }
 
 .iconfont {
@@ -18,15 +18,15 @@
 
 .icon-csdn:before {
 	content: "\e638";
-	color: #DD1700;
+	color: #FC5632;
 }
 
-.icon-wangyiyun:before {
-	content: "\e600";
+.icon-kugouyinle:before {
+	content: "\eb7d";
 	color: #D81E06;
 }
 
-.icon-bilibili::before {
+.icon-bilibili:before {
 	content: "\e609";
 	color: #20B0E3;
 }
