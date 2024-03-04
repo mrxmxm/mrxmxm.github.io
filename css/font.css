@@ -21,7 +21,7 @@
 	color: #DD1700;
 }
 
-.icon-wangyiyun::before {
+.icon-wangyiyun:before {
 	content: "\e600";
 	color: #D81E06;
 }
